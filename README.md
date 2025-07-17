@@ -136,12 +136,21 @@ const shahan = {
 </div>
 
 <div align="center">
-  <a href="https://github.com/blaackstring/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=blaackstring&repo=project1&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/blaackstring/project2">
+    <a href="https://wispr-chatapp.onrender.com/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=blaackstring&repo=project2&theme=radical&hide_border=true" />
   </a>
+  <a href="http://byteelink.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=blaackstring&repo=project1&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://zerocode-fe-assignment-tw2y.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=blaackstring&repo=project2&theme=radical&hide_border=true" />
+  </a>
+   <a href="https://zerocode-fe-assignment-tw2y.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=blaackstring&repo=project2&theme=radical&hide_border=true" />
+  </a>
+   
+
+  
 </div>
 
 ---
@@ -238,7 +247,7 @@ const shahan = {
   <a href="https://github.com/blaackstring" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
+  <a href="https://t.me/IntegralHelpet_bot" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
