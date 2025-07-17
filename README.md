@@ -130,27 +130,44 @@ const shahan = {
 ---
 
 ## 💡 Featured Projects
-
 <div align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="Projects 3D"/>
 </div>
-
 <div align="center">
-    <a href="https://wispr-chatapp.onrender.com/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=blaackstring&repo=project2&theme=radical&hide_border=true" />
-  </a>
-  <a href="http://byteelink.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=blaackstring&repo=project1&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://zerocode-fe-assignment-tw2y.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=blaackstring&repo=project2&theme=radical&hide_border=true" />
-  </a>
-   <a href="https://zerocode-fe-assignment-tw2y.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=blaackstring&repo=project2&theme=radical&hide_border=true" />
-  </a>
-   
-
-  
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://wispr-chatapp.onrender.com/" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=blaackstring&repo=wispr-chatapp&theme=radical&hide_border=true" />
+        </a>
+        <br>
+        <strong>🚀 Live Demo</strong>
+      </td>
+      <td align="center">
+        <a href="http://byteelink.vercel.app/" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=blaackstring&repo=byteelink&theme=radical&hide_border=true" />
+        </a>
+        <br>
+        <strong>🌐 Live Site</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://zerocode-fe-assignment-tw2y.vercel.app/" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=blaackstring&repo=zerocode-fe-assignment&theme=radical&hide_border=true" />
+        </a>
+        <br>
+        <strong>💻 Frontend Assignment</strong>
+      </td>
+      <td align="center">
+        <a href="https://github.com/blaackstring" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=blaackstring&repo=portfolio&theme=radical&hide_border=true" />
+        </a>
+        <br>
+        <strong>🎨 Portfolio</strong>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -180,10 +197,6 @@ const shahan = {
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="300" alt="Docker 3D"/>
 </div>
 
-### ☸️ Kubernetes Orchestration
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Kubernetes 3D"/>
-</div>
 
 ### 🔧 CI/CD Pipeline
 <div align="center">
@@ -196,19 +209,6 @@ const shahan = {
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="400" alt="AI 3D"/>
-</div>
-
-### 🧠 Neural Networks
-<div align="center">
-  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="300" alt="Neural Network 3D"/>
-</div>
-
----
-
-## 🔐 Cybersecurity & Linux
-
-<div align="center">
-  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="400" alt="Cybersecurity 3D"/>
 </div>
 
 ### 🐧 Linux Terminal
@@ -224,14 +224,14 @@ const shahan = {
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Web Development 3D"/>
 </div>
 
-### 🌟 Full Stack Journey
+### 🌟 Full Snack Journey
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" alt="Full Stack 3D"/>
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Handshake!
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="150" alt="Connect 3D"/>
@@ -254,27 +254,9 @@ const shahan = {
 
 ---
 
-## 😄 Random Dev Humor
 
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" />
-  <br><br>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Coding Humor 3D"/>
-</div>
 
----
 
-## 📜 Daily Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="200" alt="Motivation 3D"/>
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
